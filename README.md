@@ -6,6 +6,7 @@
 
 Saiba mais um pouco sobre mim:
 
+<! --
 <div>
 🔭 Aualmente estou trabalhando como Desenvolvedor Jr na MV.
 <br>
@@ -14,3 +15,4 @@ Saiba mais um pouco sobre mim:
 🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
 <br>
 ⚡ Curiosidades: Gosto muito de estudar sobre pinturas do renascimento.
+-->
