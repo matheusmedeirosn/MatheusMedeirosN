@@ -6,7 +6,11 @@
 
 Saiba mais um pouco sobre mim:
 
-- 🔭 Aualmente estou trabalhando como Desenvolvedor Jr na MV.
-- 🌱 Atualmente estou aperfeiçoando minhas habilidades em algumas linguagens de programação. Tais como: Java, SQL e JavaScript.
-- 🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
-- ⚡ Curiosidades: Gosto muito de estudar sobre pinturas do renascimento.
+<div>
+🔭 Aualmente estou trabalhando como Desenvolvedor Jr na MV.
+<br>
+🌱 Atualmente estou aperfeiçoando minhas habilidades em algumas linguagens de programação. Tais como: Java, SQL e JavaScript.
+<br>
+🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
+<br>
+⚡ Curiosidades: Gosto muito de estudar sobre pinturas do renascimento.
