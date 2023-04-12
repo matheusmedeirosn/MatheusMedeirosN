@@ -1,10 +1,13 @@
 ## Olá, Seja bem-vindo(a), me chamo Matheus!
 
-🔭 Aualmente estou trabalhando como Desenvolvedor Jr na MV.
+Saiba um pouco mais sobre mim:
+
+🔭 Atualmente estou trabalhando como Desenvolvedor Jr na MV.
 <br>
-🌱 Atualmente estou aperfeiçoando minhas habilidades em alguns frameworks e linguagens de programação. Tais como: Java, SQL e JavaScript.
+🌱 Estou aperfeiçoando minhas habilidades em alguns frameworks e linguagens de programação.
+Tais como: Java, SQL e JavaScript.
 <br>
-🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
+🎓 Graduando em Análise e Desenvolvimento de Sistemas.
 
 <div align="center">
   <a href="https://github.com/matheusmedeirosn">
