@@ -2,10 +2,7 @@
 
 Saiba um pouco mais sobre mim:
 
-🔭 Atualmente estou trabalhando como Desenvolvedor Jr na MV.
-<br>
-🌱 Estou aperfeiçoando minhas habilidades em alguns frameworks e linguagens de programação.
-Tais como: Java, SQL e JavaScript.
+🔭 Junior backend developer at Bradesco 
 <br>
 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
 
