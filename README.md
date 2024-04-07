@@ -1,10 +1,8 @@
-## Olá, Seja bem-vindo(a), me chamo Matheus!
-
-Saiba um pouco mais sobre mim:
+**Matheus Medeiros**
 
 🔭 Junior backend developer at Bradesco 
 <br>
-🎓 Graduando em Análise e Desenvolvimento de Sistemas.
+🎓 Graduating in System Analysis and Development
 
 <div align="center">
   <a href="https://github.com/matheusmedeirosn">
