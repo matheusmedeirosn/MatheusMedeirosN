@@ -1,6 +1,6 @@
 **Matheus Medeiros**
 
-🔭 Junior backend developer at Bradesco 
+🔭 backend developer at Bradesco 
 <br>
 🎓 Graduating in System Analysis and Development
 
